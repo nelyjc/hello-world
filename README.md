@@ -1,10 +1,9 @@
 # Overview
 
-This software is a simple Hello World web page created to practice setting up a development environment. It is to practice writing code and to publish a software project online using Firebase. 
+This software is a simple Hello World web page created to practice setting up a development environment. It is to practice writing code and to publish a software project online using Firebase. I am focusing on its feature of Cloud Firestore that is a storing database. Since this is just to demonstrate the ability to connect, I will only demonstrate the Firebase features. 
 
 The program displays a Hello World message in a web browser. I created this software to strengthen my understanding of the software development process.
 
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
